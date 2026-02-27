@@ -1,0 +1,3 @@
+1. Teniendo en cuenta el proyecto: una caja 400px por 300px del color que se donde hay 8 elementos, 4 cuadrados y 4 circulos, dame un codigo basico con ids y clases para luego distribuirlos de cierta forma
+2. Bueno, pasemos a lo siguiente. Sin alterar nada significativo, cambia los colores a: el contenedor a azul oscuro, los cuadrados a aqua y los circulos a rosado
+3. Vamos excelente. Ahora, usando los ids y clases del html, implementa un flex-box para el contenedor, que va a ir en el centro de la página y un grid para poder distribuir los elementos en base a los ids de cada uno. Todo esto en el css sin alterar nada de lo que ya me has mandado. 
